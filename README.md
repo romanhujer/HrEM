@@ -1,11 +1,10 @@
-# HrEM
-##HrEM is Harmonic EQ Mount  with OnStep  controller
+## HrEM is 3D printed Harmonic EQ Mount  with OnStep  controller
 
 Gear ratio is  1 : 404.1818     ( 1+46/11) *78 
 
 [Thingivers](https://www.thingiverse.com/thing:5259291) 
 
-##BOM
+## BOM
 
 * 2 x 6010ZZ bearing
 * 2 x 6807ZZ bearing
