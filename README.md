@@ -17,5 +17,6 @@ Gear ratio is  1 : 404.1818     ( 1+46/11) *78
 * More  M4 and M5  Screw and Nuts ;-]
 * 1 x OnStep MiniPCB 2.0  or  my OnStep MiniESP32  PCB
 * 2 x GX16-4p conector set  
+
 .....
 
