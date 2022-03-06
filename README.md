@@ -14,8 +14,8 @@ Gear ratio is  1 : 404.1818     ( 1+46/11) *78
 * 1 x Optional Universal Vixen Dual Clamp 
 * 1 x Sky Watcher Adjustable Pedestal for Eq1uatorial Instrument
 * 1 x Tripod  Aluminium or Zomei Carbon tripod
-*  More  M4 and M5  Screw and Nuts ;-]
+* More  M4 and M5  Screw and Nuts ;-]
 * 1 x OnStep MiniPCB 2.0  or  my OnStep MiniESP32  PCB
-
+* 2 x GX16-4p conector set  
 .....
 
