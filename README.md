@@ -2,7 +2,7 @@
 
 Gear ratio is  1 : 404.1818     ( 1+46/11) *78 
 
-[Thingivers](https://www.thingiverse.com/thing:5259291) 
+[Thingivers](https://www.thingiverse.com/thing:5342291) 
 
 ## BOM
 
