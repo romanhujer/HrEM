@@ -17,6 +17,9 @@ Gear ratio is  1 : 404.1818     ( 1+46/11) *78
 * More  M4 and M5  Screw and Nuts ;-]
 * 1 x OnStep MiniPCB 2.0  or  my OnStep MiniESP32  PCB
 * 2 x GX16-4p conector set  
-
+* 1 -  3x [Domyos Weight](https://www.decathlon.co.uk/28mm-cast-iron-weight-bar-discs-body-training-id_1042303.html)  0.5 kg, 1 kg or 2 kg
+* OnStep Wiring diagram and PCB  [ESP32 Mini](https://easyeda.com/hujer.roman/onstep-esp-mini) or  [MiniPCB 2.0](https://easyeda.com/hdutton/minipcb2)
+* OnStep [SHC](https://www.thingiverse.com/thing:3212339)
+.....
 .....
 
